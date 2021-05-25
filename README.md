@@ -19,5 +19,6 @@ In dem Gehäuse war zum Glück noch ausreichend Platz, um dort einen WEMOS D1, e
 
 Die Schaltbilder und den Bestückungsplan findet ihr unter: [System Schaltbilder](doc/Alarm_Absaugung.pdf)
 
-Das WEMOS D1 Modul wurde mit der aktuellen Version [Tasmota von Theo Arends](https://tasmota.github.io/docs/) geflasht und ist damit über WLAN - als MQTT-Client - in unser Gesamtnetzwerk einegebunden.
+Das WEMOS D1 Modul wurde mit der aktuellen Version [Tasmota von Theo Arends](https://tasmota.github.io/docs/) geflasht und ist über WLAN - als MQTT-Client - in unser Gesamtnetzwerk eingebunden.<br>
+Auf unserem Systemrechner (Raspberry Pi 3+) verwaltet die Software [SYMCON](https://symcon.de) die Türeingangskontrolle, die Machinenzugänge, die Lichtregelung, die Temperatursteuerung und vieles mehr. An dieser Stelle möchten wir unseren Dank an die Geschäftsleitung der Firma [SYMCON](https://symcon.de) richten, die uns nun schon mehrere Jahre mit einer limitierten Lizenz unterstützt.
 
