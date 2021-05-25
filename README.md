@@ -26,7 +26,7 @@ Auf unserem Systemrechner (Raspberry Pi 3+) verwaltet die Software [SYMCON](http
 
 ## Auslösung bei zu hoher PM10 (<10µm) Partikelkonzentration
 
-<b>bei Werten >= 750µg/m³</b> startet das Blinklicht in roter Farbe - dies ist eine Vorwarnstufe und es muss geprüft werden, aus welchem Grund so hohe Staubwerte vorliegen.<p>
+<b>bei Werten >= 750µg/m³</b> <br>startet das Blinklicht in roter Farbe - dies ist eine Vorwarnstufe und es muss geprüft werden, aus welchem Grund so hohe Staubwerte vorliegen.<p>
   <b>Werte >= 1000µg/m³</b> entsprechen dem oberen Warnwert 
 <ul>
 rotes Blinklicht und die <u>Sirene</u> werden aktiviert<br>
