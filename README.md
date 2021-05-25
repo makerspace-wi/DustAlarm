@@ -8,3 +8,6 @@ Dabei passiert es gelegentlich, dass sich die Absaugkanäle der Maschinen versto
 Im Rahmen eines internen Projektes hatten wir schon vor Monaten in der Holzwerkstatt einen Feinstaubsensor aufgebaut und montiert, dessen Werte (PM10 - Partikel <10um) auch dazu genutzt werden, unsere Raumfilter (3 Stück) automatisch ein- und auch wieder auszuschalten.
 
 Schaltbilder:[System Blockschaltbilder](doc/Alarm_Absaugung.pdf)
+
+Hier dazu die [Tasmota](https://tasmota.github.io/docs/)<br>
+
