@@ -21,5 +21,11 @@ Die Schaltbilder und den Bestückungsplan findet ihr unter: [System Schaltbilder
 
 Das WEMOS D1 Modul wurde mit der aktuellen Firmware [Tasmota von Theo Arends](https://tasmota.github.io/docs/) geflasht und ist über WLAN - als MQTT-Client - in unser Gesamtnetzwerk eingebunden.<br>
 Über verschiedene MQTT-Topics kann für den Dust Alarm Kanal 1 (LED-Stroboskop), Kanal 2 (LED-Stroboskop & Sirene), Kanal 3 (LED-SDauerlicht) oder Kanal 4 (alles AUS) von unserem Systemrechner angesprochen werden.<br>Der Dust Alarm selbst kann über MQTT-Topics das Betätigen der Taste <b>'Test'</b> und der Taste <b>'RESET'</b> an den Systemrechner melden.<br>
-Auf unserem Systemrechner (Raspberry Pi 3+) verwaltet die Software [SYMCON](https://symcon.de) die Türeingangskontrolle, die Machinenzugänge, die Lichtregelung, die Temperatursteuerung und vieles mehr. An dieser Stelle möchten wir unseren Dank an die Geschäftsleitung der Firma [SYMCON](https://symcon.de) richten, die uns nun schon mehrere Jahre mit einer Lizenz unterstützt.
+Auf unserem Systemrechner (Raspberry Pi 3+) verwaltet die Software [SYMCON](https://symcon.de) die Türeingangskontrolle, die Machinenzugänge, die Lichtregelung, die Temperatursteuerung und vieles anderes mehr. An dieser Stelle möchten wir unseren Dank an die Geschäftsleitung der Firma [SYMCON](https://symcon.de) richten, die uns nun schon mehrere Jahre mit einer Lizenz unterstützt.
+<br>
+
+Auslösung bei zu hoher PM10 (<10µm) Partikelkonzentration
+bei Werten >= 750µg/m³ startet das Blinklicht in roter Farbe - dies ist eine Vorwarnstufe und es muss geprüft werden, aus welchem Grund so hohe Staubwerte vorliegen.<br>
+Werte >= 1000µg/m³ entsprechen dem oberen Warnwert - rotes Blinklicht und die Sirene werden aktiviert
+## die Arbeiten sind sofort einzustellen (z.B. auch Schleifen ohne Absaugung) - Dichtigkeit der Absauganlage prüfen (z.B. Staubsack nicht korrekt fixiert) - den kompletten Absaugkanal der entsprechenden Maschine auf Verstopfung prüfen und ggf. leer räumen/reinigen<p>Die Sirene kann an der kleinen RESET-Taste für 15 Minuten abgestellt werden, um in dieser Zeit das Problem zu beheben.<br>Während dieser RESET-Zeit leuchten 2 rote LEDs dauerhaft.
 
