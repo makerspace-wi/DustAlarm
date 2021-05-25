@@ -24,7 +24,7 @@ Das WEMOS D1 Modul wurde mit der aktuellen Firmware [Tasmota von Theo Arends](ht
 Auf unserem Systemrechner (Raspberry Pi 3+) verwaltet die Software [SYMCON](https://symcon.de) die Türeingangskontrolle, die Machinenzugänge, die Lichtregelung, die Temperatursteuerung und vieles anderes mehr. An dieser Stelle möchten wir unseren Dank an die Geschäftsleitung der Firma [SYMCON](https://symcon.de) richten, die uns nun schon mehrere Jahre mit einer Lizenz unterstützt.
 <br>
 
-# Auslösung bei zu hoher PM10 (<10µm) Partikelkonzentration
+## Auslösung bei zu hoher PM10 (<10µm) Partikelkonzentration
 
 bei Werten >= 750µg/m³ startet das Blinklicht in roter Farbe - dies ist eine Vorwarnstufe und es muss geprüft werden, aus welchem Grund so hohe Staubwerte vorliegen.<br>
 Werte >= 1000µg/m³ entsprechen dem oberen Warnwert 
