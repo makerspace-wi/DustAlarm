@@ -27,8 +27,11 @@ Auf unserem Systemrechner (Raspberry Pi 3+) verwaltet die Software [SYMCON](http
 Auslösung bei zu hoher PM10 (<10µm) Partikelkonzentration
 bei Werten >= 750µg/m³ startet das Blinklicht in roter Farbe - dies ist eine Vorwarnstufe und es muss geprüft werden, aus welchem Grund so hohe Staubwerte vorliegen.<br>
 Werte >= 1000µg/m³ entsprechen dem oberen Warnwert 
-<ul>rotes Blinklicht und die Sirene werden aktiviert
-## die Arbeiten sind sofort einzustellen (z.B. auch Schleifen ohne Absaugung) - Dichtigkeit der Absauganlage prüfen (z.B. Staubsack nicht korrekt fixiert) - den kompletten Absaugkanal der entsprechenden Maschine auf Verstopfung prüfen und ggf. leer räumen/reinigen
- </ul>
+<ul>
+rotes Blinklicht und die Sirene werden aktiviert
+die Arbeiten sind sofort einzustellen (z.B. auch Schleifen ohne Absaugung)
+Dichtigkeit der Absauganlage prüfen (z.B. Staubsack nicht korrekt fixiert)
+den kompletten Absaugkanal der entsprechenden Maschine auf Verstopfung prüfen und ggf. leer räumen/reinigen
+</ul>
   <p>Die Sirene kann an der kleinen RESET-Taste für 15 Minuten abgestellt werden, um in dieser Zeit das Problem zu beheben.<br>Während dieser RESET-Zeit leuchten 2 rote LEDs dauerhaft.
 
