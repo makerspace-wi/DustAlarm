@@ -11,9 +11,11 @@ Im Rahmen eines internen Projektes hatten wir schon vor Monaten in der Holzwerks
 
 Schaltbilder:[System Blockschaltbilder](doc/Alarm_Absaugung.pdf)
 
-<img width="600" alt="abc" src="https://user-images.githubusercontent.com/42463588/119487904-380cc780-bd5a-11eb-84ed-d20676cd81d8.jpg">
+<img width="400" alt="abc" src="https://user-images.githubusercontent.com/42463588/119487960-4b1f9780-bd5a-11eb-99df-43c25822c345.JPG">
 
-![IMG_8287](https://user-images.githubusercontent.com/42463588/119487960-4b1f9780-bd5a-11eb-99df-43c25822c345.JPG)
+<img width="400" alt="def" src="https://user-images.githubusercontent.com/42463588/119487904-380cc780-bd5a-11eb-84ed-d20676cd81d8.jpg">
+
+
 
 [Tasmota von Theo Arends](https://tasmota.github.io/docs/)<br>
 
