@@ -29,7 +29,7 @@ Auf unserem Systemrechner (Raspberry Pi 3+) verwaltet die Software [SYMCON](http
 <b>bei Werten >= 750µg/m³</b> startet das Blinklicht in roter Farbe - dies ist eine Vorwarnstufe und es muss geprüft werden, aus welchem Grund so hohe Staubwerte vorliegen.<p>
   <b>Werte >= 1000µg/m³</b> entsprechen dem oberen Warnwert 
 <ul>
-rotes Blinklicht und die Sirene werden aktiviert<br>
+  rotes Blinklicht und die <ul>Sirene</ul> werden aktiviert<br>
 die Arbeiten sind sofort einzustellen (z.B. auch Schleifen ohne Absaugung)<br>
 Dichtigkeit der Absauganlage prüfen (z.B. Staubsack nicht korrekt fixiert)<br>
 den kompletten Absaugkanal der entsprechenden Maschine auf Verstopfung prüfen und ggf. leer räumen/reinigen<br>
