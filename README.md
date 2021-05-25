@@ -9,5 +9,5 @@ Im Rahmen eines internen Projektes hatten wir schon vor Monaten in der Holzwerks
 
 Schaltbilder:[System Blockschaltbilder](doc/Alarm_Absaugung.pdf)
 
-Hier dazu die [Tasmota](https://tasmota.github.io/docs/)<br>
+[Tasmota von Theo Arends](https://tasmota.github.io/docs/)<br>
 
