@@ -13,7 +13,7 @@ Die Entscheidung fiel auf einen preiswerten Alarmgeber der Firma Vellemann - der
 
 <img width="400" alt="abc" src="https://user-images.githubusercontent.com/42463588/119487960-4b1f9780-bd5a-11eb-99df-43c25822c345.JPG">
 
-In dem Gehäuse war zum Glück noch ausreichend Platz, um dort einen WEMOS D1, einen kleinen Step-UP Regler und eine Interface Elektronik unterzubringen.
+In dem Gehäuse war zum Glück noch ausreichend Platz, um dort einen WEMOS D1, einen kleinen Step-UP Regler und eine Interface Elektronik - mit 2 Tastern (TEST & RESET) unterzubringen.
 
 <img width="400" alt="def" src="https://user-images.githubusercontent.com/42463588/119487904-380cc780-bd5a-11eb-84ed-d20676cd81d8.jpg"><img width="400" alt="ghi" src="https://user-images.githubusercontent.com/42463588/119489747-4bb92d80-bd5c-11eb-8292-f71e675956f6.jpg">
 
