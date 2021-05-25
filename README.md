@@ -15,8 +15,7 @@ Die Entscheidung fiel auf einen preiswerten Alarmgeber der Firma Vellemann - der
 
 In dem Gehäuse war zum Glück noch ausreichend Platz, um dort einen WEMOS D1, einen kleinen Step-UP Regler und eine Interface Elektronik unterzubringen.
 
-<img width="400" alt="def" src="https://user-images.githubusercontent.com/42463588/119487904-380cc780-bd5a-11eb-84ed-d20676cd81d8.jpg">
-<img width="400" alt="ghi" src="https://user-images.githubusercontent.com/42463588/119489747-4bb92d80-bd5c-11eb-8292-f71e675956f6.jpg">
+<img width="400" alt="def" src="https://user-images.githubusercontent.com/42463588/119487904-380cc780-bd5a-11eb-84ed-d20676cd81d8.jpg"><img width="400" alt="ghi" src="https://user-images.githubusercontent.com/42463588/119489747-4bb92d80-bd5c-11eb-8292-f71e675956f6.jpg">
 
 Schaltbilder:[System Blockschaltbilder](doc/Alarm_Absaugung.pdf)
 
