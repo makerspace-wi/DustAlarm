@@ -9,13 +9,13 @@ Im Rahmen eines internen Projektes hatten wir schon vor Monaten in der Holzwerks
 
 <img width="655" alt="Partikelbelastung" src="https://user-images.githubusercontent.com/42463588/119486719-dbf57380-bd58-11eb-92a3-a0d606eb389d.png">
 
-Schaltbilder:[System Blockschaltbilder](doc/Alarm_Absaugung.pdf)
+Die Entscheidung fiel auf einen preiswerten Alarmgeber der Firma Vellemann - der 3 Kanäle hat: LED-Stroboskop, LED-Stroboskop plus Sirene (echt laut) und dauerhaft rote LEDs
 
 <img width="400" alt="abc" src="https://user-images.githubusercontent.com/42463588/119487960-4b1f9780-bd5a-11eb-99df-43c25822c345.JPG">
 
 <img width="400" alt="def" src="https://user-images.githubusercontent.com/42463588/119487904-380cc780-bd5a-11eb-84ed-d20676cd81d8.jpg">
 
-
+Schaltbilder:[System Blockschaltbilder](doc/Alarm_Absaugung.pdf)
 
 [Tasmota von Theo Arends](https://tasmota.github.io/docs/)<br>
 
