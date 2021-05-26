@@ -21,7 +21,7 @@ Die Schaltbilder und den Bestückungsplan findet ihr unter: [System Schaltbilder
 
 Das WEMOS D1 Modul wurde mit der aktuellen Firmware [Tasmota von Theo Arends](https://tasmota.github.io/docs/) geflasht, konfiguriert und ist über WLAN - als MQTT-Client - in unser Gesamtnetzwerk eingebunden.<br>
 Über verschiedene MQTT-Topics kann für den Dust Alarm Kanal 1 (LED-Stroboskop), Kanal 2 (LED-Stroboskop & Sirene), Kanal 3 (LED-Dauerlicht) oder Kanal 4 (alles AUS) von unserem Systemrechner angesprochen werden.<br>Der Dust Alarm selbst kann über MQTT-Topics das Betätigen der Taste <b>'Test'</b> und der Taste <b>'RESET'</b> an den Systemrechner melden.<br>
-Auf unserem Systemrechner (Raspberry Pi 3+) verwaltet die Software [SYMCON](https://symcon.de) die Türeingangskontrolle, die Machinenzugänge, die Lichtregelung, die Temperatursteuerung und vieles anderes mehr. An dieser Stelle möchten wir unseren Dank an die Geschäftsleitung der Firma [SYMCON](https://symcon.de) richten, die uns nun schon mehrere Jahre mit einer Lizenz unterstützt.
+Auf unserem Systemrechner (Raspberry Pi 3+) verwaltet die Software [SYMCON](https://symcon.de) die Türzugangskontrolle, die Machinenzugänge, die Lichtregelung, die Temperatursteuerung und vieles anderes mehr. An dieser Stelle möchten wir unseren Dank an die Geschäftsleitung der Firma [SYMCON](https://symcon.de) richten, die uns nun schon mehrere Jahre mit einer Lizenz unterstützt.
 <br>
 
 ## Auslösung bei zu hoher PM10 (<10µm) Partikelkonzentration
